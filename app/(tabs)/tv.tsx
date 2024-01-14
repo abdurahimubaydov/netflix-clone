@@ -1,10 +1,10 @@
 import { StyleSheet } from 'react-native';
 import { Text, View } from '../../components/Themed';
 
-export default function Browse() {
+export default function Tv() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>Tv</Text>
     </View>
   );
 }
